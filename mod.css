@@ -1,0 +1,59 @@
+body{background-image:url('back100.jpg');background-attachment:fixed;position:relative;background-size:100%;}
+  .up{height:50px;width:760px;border:1px solid;border-radius:10px;border-color:silver;}
+  .titlu{height:150px;width:760px;border:1px solid;border-radius:10px;border-color:silver;background-image:url('titluimg.jpg');}
+  .down{height:60px;width:760px;clear:both;border:1px solid;border-radius:10px;border-color:silver;clear:both;}
+  .middleLeftBlock{height:650px;width:480px;float:left;border:1px solid;border-radius:10px;border-color:silver;}
+  .middleRightBlock{height:650px;width:280px;float:right;border:1px solid;border-radius:10px;border-color:silver;position:absolute;margin-left:483px;overflow:auto;}
+.wrap{width:760px;margin:auto;}
+.light{padding:5px;}
+#nume{float:right;margin-right:30px;margin-top:50;margin-bottom:50px;font-family:Verdana;}
+#cright{font-family:verdana;float:right;clear:both;margin-top:10px;margin-right:10px;}
+#logo{width:100px;height:50px;border-radius:10px;margin-top:50px;margin-bottom:50px;margin-right:30px;float:right;position:relative;}		
+#cover{width:760px;height:150px;border-radius:10px;position:absolute;}		
+		#butonp{opacity:0.8;}
+		#butonp:hover{opacity:1.0;}
+		#butonp:active{opacity:0.2;}
+				
+				#butonr{opacity:0.8;}
+				#butonr:hover{opacity:1.0;}
+				#butonr:active{opacity:0.2;}
+
+#mutare{padding:50px;}
+#asterix{position:absolute;}
+#pagprinc{margin-top:5px;margin-left:20px;border:1px;border-radius:10px;background-color:orange;}
+#inregistrare{float:right;margin-top:5px;margin-right:20px;border:1px;border-radius:10px;}
+
+.cfilm{float:right;margin-top:15px;margin-right:10px;}
+
+.cfilm:hover{opacity:0.5;}
+.grav:hover{opacity:0.5;}
+.pris:hover{opacity:0.5;}
+
+#ftitlu{position:absolute;margin-top:10px;margin-left:10px;}
+#ftitlu1{position:absolute;margin-top:10px;margin-left:10px;}
+.detaliif{margin-top:50px;margin-left:10px;font-size:80%;}
+
+
+#thor2{margin-top:30px;}
+#titluthor{position:absolute;margin-top:30px;margin-left:10px;}
+
+.grav{float:right;margin-top:15px;margin-right:10px}
+#grav{margin-top:60px;}
+#titlugrav{position:absolute;margin-top:60px;margin-left:10px;}
+
+
+.detaliif2{margin-top:80px;margin-left:10px;font-size:80%;}
+.detaliif3{margin-top:100px;margin-left:10px;font-size:80%;}
+.detaliifg{margin-top:110px;margin-left:10px;font-size:80%;}
+.detaliifp{margin-top:150px;margin-left:10px;font-size:80%;}
+
+a{text-decoration:none;}
+a:hover{text-decoration:underline;}
+
+
+#feedback{right:0%;top:50%;position:fixed;}
+
+
+iframe{margin-left:15px;}
+
+.tw{margin-right:20px;width:230px;height:400px;float:right;}
